@@ -2,7 +2,7 @@ package timeline
 
 import (
 	"context"
-	"github.com/aliyun/aliyun-tablestore-go-sdk/tablestore"
+	"github.com/verystar/aliyun-tablestore-go-sdk/tablestore"
 )
 
 type ScanParameter struct {

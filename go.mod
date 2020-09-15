@@ -1,4 +1,4 @@
-module github.com/aliyun/aliyun-tablestore-go-sdk
+module github.com/verystar/aliyun-tablestore-go-sdk
 
 go 1.13
 
@@ -11,6 +11,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.4.0
+	go.uber.org/zap v1.16.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )

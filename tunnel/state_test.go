@@ -3,9 +3,9 @@ package tunnel
 import (
 	"errors"
 	"fmt"
-	"github.com/aliyun/aliyun-tablestore-go-sdk/tunnel/protocol"
 	"github.com/golang/mock/gomock"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/verystar/aliyun-tablestore-go-sdk/tunnel/protocol"
 	"go.uber.org/zap"
 	"sync"
 	"testing"

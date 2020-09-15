@@ -1,7 +1,7 @@
 package search
 
 import (
-	"github.com/aliyun/aliyun-tablestore-go-sdk/tablestore/otsprotocol"
+	"github.com/verystar/aliyun-tablestore-go-sdk/tablestore/otsprotocol"
 )
 
 type Sorter interface {
